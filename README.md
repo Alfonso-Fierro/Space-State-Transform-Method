@@ -8,7 +8,7 @@ The repository is organized into the following folders and files:
 
 ### Main Directory
 - **Notebook de informe**: Detailed report in PDF format summarizing the methodology and results of the project.
-- **Osorio Fierro PPTX**: Presentation slides providing an overview of the project.
+- **Presentación**: Presentation slides providing an overview of the project.
 
 ### Código
 - **fincopy.py**: Python source file containing the core functions and algorithms used in the project.
